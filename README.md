@@ -149,6 +149,4 @@ Final-year B.Tech (Data Science) project, Swami Keshvanand Institute of Technolo
 
 ---
 
-## 📄 License
 
-*(Add your chosen license here, e.g. MIT.)*
